@@ -1,0 +1,106 @@
+body{
+    text-align: center;
+    margin: 0px;
+    
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    font-family: 'Italianno', cursive;
+    font-size: 9.375rem;    
+    padding-top: 100px;
+    padding-bottom: 0px;
+    color: #1eb2a6;
+}
+h2{
+    color: #1eb2a6;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    color: #1eb2a6;
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 20px;
+    font-size: 2rem;
+}
+.subheading{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    color: #1eb2a6;
+}
+.top-container{
+    background-color: #beebe9;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 20% ;
+    top: 5%;
+    width: 15%;
+  
+}
+.bottom-cloud{
+    position: absolute;
+    left: 20%;
+    
+}
+.pro{
+    background-color: white;
+}
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5rem;
+   margin: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 150px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.img2{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+.middle-container{
+    margin: 40px;
+}
+.bottom-container{
+    background-color: #8ac6d1;
+    margin: 0px;
+}
+.footer-link{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-decoration: none;
+    margin: 0 100px;
+}
+.btn{
+    
+    text-decoration: none;
+}
+hr{
+    border-style: dotted;
+    border-top: none;
+    border-width: 0 0 8px 0;
+    width: 5%;
+    color: #beebe9;
+}
+.last-line{
+    margin: 5px;
+    font-size: 1rem;
+}
+.button{
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
